@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    color: rgb(23, 197, 32);
+}
+p {
+    text-align: center;
+    color: rgb(43, 89, 119);
+}
+table {
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 500%;
+}
+td,th {
+    border: 0px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.mensaje-icon {
+    text-decoration-line: none;
+}
+.mx-auto {
+    width: 20%;
+    
+}
+button {
+    width: 100%;
+    
+}
+
+
+.input-2 {
+    padding-top: 2%;
+}
+
+.fuente {
+    font-family: "Comic Sans MS", cursive, sans-serif;  
+    }
